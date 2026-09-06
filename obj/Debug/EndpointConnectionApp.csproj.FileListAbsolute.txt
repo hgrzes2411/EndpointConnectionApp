@@ -1,0 +1,7 @@
+C:\Users\henek\OneDrive\Pulpit\EndpointConnectionApp\EndpointConnectionApp\obj\Debug\EndpointConnectionApp.csproj.AssemblyReference.cache
+C:\Users\henek\OneDrive\Pulpit\EndpointConnectionApp\EndpointConnectionApp\obj\Debug\EndpointConnectionApp.csproj.CoreCompileInputs.cache
+C:\Users\henek\OneDrive\Pulpit\EndpointConnectionApp\EndpointConnectionApp\bin\Debug\EndpointConnectionApp.exe.config
+C:\Users\henek\OneDrive\Pulpit\EndpointConnectionApp\EndpointConnectionApp\bin\Debug\EndpointConnectionApp.exe
+C:\Users\henek\OneDrive\Pulpit\EndpointConnectionApp\EndpointConnectionApp\bin\Debug\EndpointConnectionApp.pdb
+C:\Users\henek\OneDrive\Pulpit\EndpointConnectionApp\EndpointConnectionApp\obj\Debug\EndpointConnectionApp.exe
+C:\Users\henek\OneDrive\Pulpit\EndpointConnectionApp\EndpointConnectionApp\obj\Debug\EndpointConnectionApp.pdb
